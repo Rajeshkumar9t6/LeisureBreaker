@@ -1,2 +1,2 @@
 # LeisureBreaker
-This is a repo for our learning
+This is a repo for our learning new tech
